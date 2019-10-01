@@ -1,2 +1,8 @@
-Mathway.com
-Slader.com
+Math:
+mathway.com
+slader.com
+khanacademy.org
+desmos.com
+
+
+
