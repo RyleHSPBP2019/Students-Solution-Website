@@ -1,0 +1,23 @@
+td{padding: 0}
+tr{background-color: #b9b9b9}
+body {background-color: #b9b9b9; width: 99%}
+		
+.styledbutton{
+	background-color: black;
+	text-align: center;
+	padding: 18px 9px;
+	cursor: pointer;
+	font-size: 22px;
+	border: 4px solid #00bfff;
+	color: #00bfff;
+	}
+	
+.styledbutton:hover{
+	background-color: white;
+	color: #00bfff;
+	}
+
+	.styledheader{
+		
+		
+	}
