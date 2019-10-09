@@ -1,6 +1,7 @@
 td{padding: 0}
 tr{background-color: #b9b9b9}
 body {background-color: #b9b9b9; width: 99%}
+div{height: 111px}
 		
 .styledbutton{
 	background-color: black;
@@ -17,7 +18,7 @@ body {background-color: #b9b9b9; width: 99%}
 	color: #00bfff;
 	}
 
-	.styledheader{
-		
-		
-	}
+table.center {
+	margin-left:auto; 
+	margin-right:auto;
+}
