@@ -12,6 +12,19 @@ div{height: 111px}
 	color: #00bfff;
 	}
 	
+	.pagesbutton{
+	background-color: black;
+	text-align: center;
+	padding: 20px 10px;
+	font-size: 22px;
+	border: 4px solid #00bfff;
+	color: #00bfff;
+	}
+	.pagesbutton:hover{
+	background-color: white;
+	color: #00bfff;
+	}
+
 .styledbutton:hover{
 	background-color: white;
 	color: #00bfff;
